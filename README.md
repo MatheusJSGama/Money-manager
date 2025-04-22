@@ -4,6 +4,14 @@
 
 ---
 
+# 🎞️ Vídeo da aplicação 
+
+
+https://github.com/user-attachments/assets/a7ccbaa4-1912-4768-b8b7-ee80e75c757b
+
+
+
+
 # 🚀 Tecnologias Utilizadas
 
 ### ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
