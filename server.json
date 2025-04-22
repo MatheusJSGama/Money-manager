@@ -1,0 +1,116 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2025-04-09T21:09:11.098Z"
+    },
+    {
+      "id": 2,
+      "description": "Macbook",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 8000,
+      "createdAt": "2025-04-09T21:02:11.098Z"
+    },
+    {
+      "id": 3,
+      "description": "Teclado",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 1000,
+      "createdAt": "2025-04-09T21:01:11.098Z"
+    },
+    {
+      "id": 4,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 3000,
+      "createdAt": "2025-04-09T21:03:11.098Z"
+    },
+    {
+      "category": "Contas",
+      "description": "Aluguel",
+      "price": 2000,
+      "type": "outcome",
+      "createdAt": "2025-04-15T21:26:35.146Z",
+      "id": 5
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de App",
+      "price": 3000,
+      "type": "income",
+      "createdAt": "2025-04-15T21:27:59.243Z",
+      "id": 6
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de site",
+      "price": 12000,
+      "type": "income",
+      "createdAt": "2025-04-15T23:24:13.443Z",
+      "id": 7
+    },
+    {
+      "category": "Contas",
+      "description": "Cartão de crédito",
+      "price": 5000,
+      "type": "outcome",
+      "createdAt": "2025-04-15T23:27:27.898Z",
+      "id": 8
+    },
+    {
+      "category": "Alimentação",
+      "description": "Jantar fora",
+      "price": 400,
+      "type": "outcome",
+      "createdAt": "2025-04-15T23:31:03.975Z",
+      "id": 9
+    },
+    {
+      "category": "Compra",
+      "description": "Festa de aniversário",
+      "price": 3000,
+      "type": "outcome",
+      "createdAt": "2025-04-15T23:32:28.044Z",
+      "id": 10
+    },
+    {
+      "category": "Compra",
+      "description": "Presente de aniversário",
+      "price": 1000,
+      "type": "outcome",
+      "createdAt": "2025-04-15T23:43:59.674Z",
+      "id": 11
+    },
+    {
+      "category": "Alimentação",
+      "description": "Ifood",
+      "price": 150,
+      "type": "outcome",
+      "createdAt": "2025-04-16T20:48:13.052Z",
+      "id": 12
+    },
+    {
+      "category": "Alimentação",
+      "description": "ifood",
+      "price": 200,
+      "type": "outcome",
+      "createdAt": "2025-04-16T20:48:31.244Z",
+      "id": 13
+    },
+    {
+      "category": "Compra",
+      "description": "Sofá",
+      "price": 2000,
+      "type": "outcome",
+      "createdAt": "2025-04-22T18:18:41.842Z",
+      "id": 14
+    }
+  ]
+}
